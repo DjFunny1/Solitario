@@ -1,0 +1,22 @@
+
+.game_fondo {
+    display: flex;
+    justify-content: center;
+    background-image: url(https://xatimg.com/image/yYCZWyv49PSs.png);
+    background-repeat: no-repeat;
+    background-size: 70% 720px;
+    background-position: center;
+}
+
+.game_fondo:hover {
+    cursor: pointer;
+    padding: 10px;
+    transition: all 0.3s;
+}
+
+
+.juego1 {
+    justify-content: center;
+}
+
+/*Edited by DjFunny*/
